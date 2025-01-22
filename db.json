@@ -1,0 +1,122 @@
+{
+  "jobs": [
+    {
+      "position": "Backend Developer",
+      "company": "Amazon",
+      "location": "Almanya",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2025-01-18",
+      "id": "cQjjOZG",
+      "interview_date": "2025-01-25T08:25"
+    },
+    {
+      "position": "Yazılım Uzmanı",
+      "company": "udemig",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "2025-01-27",
+      "id": "9iFNzFm"
+    },
+    {
+      "position": "Yazılım Uzmanı",
+      "company": "Digital Plus",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2025-01-15",
+      "id": "0wKeFWt"
+    },
+    {
+      "position": "Tester",
+      "company": "Mimcode",
+      "location": "Almanya",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "interview_date": "2025-01-28T04:06",
+      "id": "W5lrDME"
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "Türkiye",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "rejection_date": "2025-01-17",
+      "id": "9pbgYo_"
+    },
+    {
+      "position": "Tester",
+      "company": "udemig",
+      "location": "Almanya",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "rejection_date": "2025-03-13",
+      "id": "4Sdjuou"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Emartech",
+      "location": "İsveç",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "interview_date": "2025-02-08T07:14",
+      "id": "bh_QB4f"
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "Almanya",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "interview_date": "2025-02-17T06:13",
+      "id": "5anD_52"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "udemig",
+      "location": "Türkiye",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "rejection_date": "2025-01-01",
+      "id": "p_lzVvB"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Emartech",
+      "location": "İsveç",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "rejection_date": "2025-05-16",
+      "id": "F74oMUu"
+    },
+    {
+      "position": "Yazılım Uzmanı",
+      "company": "Mimcode",
+      "location": "Almanya",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "interview_date": "2025-02-01T07:24",
+      "id": "Ur22m9t"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Digital Plus",
+      "location": "İstanbul",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "2025-01-18",
+      "id": "29z08rT"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Emartech",
+      "location": "İsveç",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2025-01-27",
+      "id": "kOPl5Xq"
+    }
+  ]
+}

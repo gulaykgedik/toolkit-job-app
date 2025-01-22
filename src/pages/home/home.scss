@@ -1,0 +1,42 @@
+.home-page {
+  padding: 20px;
+
+  @media (min-width: 768px) {
+    padding: 20px 40px;
+  }
+}
+
+.layout {
+  display: grid;
+  margin-top: 25px;
+  grid-template-columns: 1fr;
+  gap: 50px;
+
+  @media (min-width: 1100px) {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+    margin-top: 50px;
+  }
+
+  .group {
+    padding: 20px 15px;
+    background-color: #171717;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0px auto;
+
+    .title {
+      margin-bottom: 15px;
+      font-size: 23px;
+      color: #2e8bca;
+      font-weight: 500;
+    }
+
+    .list {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+    }
+  }
+}
