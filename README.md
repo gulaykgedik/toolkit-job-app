@@ -29,3 +29,6 @@ and delete them. The project is built with React and Redux, utilizing modern lib
 ## Screenshots
 <br/>
 
+![job-app](https://github.com/user-attachments/assets/24372f93-c361-4511-991e-d86864d84a04)
+
+
